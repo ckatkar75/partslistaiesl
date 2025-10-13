@@ -1,0 +1,1478 @@
+[
+  {
+    "Part no.": "RD-FA1011-01",
+    "Description": "AIRCRAFT INTERFACE",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-KA1003-03",
+    "Description": "FILE SERVER",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA1031-01",
+    "Description": "DISK ARRAY",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA1061-01",
+    "Description": "MEDIA SERVER",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA1041-01",
+    "Description": "ETHERNET SWITCH",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA1051-01",
+    "Description": "CREW TERMINAL(CT)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-KA1006-02",
+    "Description": "CREW PANEL (CP)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA2011-02",
+    "Description": "ADB",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA2051-01",
+    "Description": "DIGITAL TAPPING UNIT",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FW9715-01",
+    "Description": "OVER HEAD MONITOR",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "1303-46",
+    "Description": "ADVANCED MASTER CONTROL UNIT(AMCU)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA3621-01",
+    "Description": "F/C SEAT POWER MODULE(SPM)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA3622-01",
+    "Description": "B/C & E/Y SPM",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA3221-01",
+    "Description": "F/C SEAT ELECTRONICS BOX",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA3124-01",
+    "Description": "B/C & E/Y DCSEB",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA3524-01",
+    "Description": "E/Y DC ZONE TERMINATOR(ZT)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "*RD-FA1182-01",
+    "Description": "B/C & E/Y USB HUB",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FW7939-01",
+    "Description": "F/C LCD MONITOR SVDU",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FE7854-51",
+    "Description": "B/C SMART MONITOR",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FE7800-64/",
+    "Description": "E/Y SMART MONITOR",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA5101-20",
+    "Description": "F/C & B/C HANDSET",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA5001-23",
+    "Description": "E/Y HANDSET",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FE7805-65",
+    "Description": "E/Y INARM MONITOR",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "1303-7-116",
+    "Description": "ECY PED ",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA6913-03",
+    "Description": "F/C EX PORT RJU",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-KA5712-04",
+    "Description": "F/C CRADLE ",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-KA5612-24",
+    "Description": "E/Y CRADLE",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "1303-7-118",
+    "Description": "F/C& B/C PED OUTLET",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA6363-02",
+    "Description": "E/Y  (RJ45,USB)",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA6293-06",
+    "Description": "B/C NOISE CANCELLATION RJU",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA6293-05",
+    "Description": "ECY NOISE CANCELLATION RJU",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "R6Z11ZC",
+    "Description": "CORD REEL ",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AVO271",
+    "Description": "KEYPAD B/C",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "SP2376823",
+    "Description": "ACTUATOR ARMREST",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "SP2376805",
+    "Description": "ACTUATOR TRANSITION",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "P78700M030",
+    "Description": "ECU",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AV0201",
+    "Description": "SEAT CONTROL UNIT F/C,RH",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AVO200",
+    "Description": "SEAT CONTROL UNIT F/C LH",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AM00460-001",
+    "Description": "MODIFIED SEAT CNTRL UNIT",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AM00460-003",
+    "Description": "MODIFIED SEAT CNTRL UNIT",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "AM00080-001",
+    "Description": "MODIFIED SEAT CNTRL UNIT DECAL",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "P34353B010",
+    "Description": "ACTUATOR TRANSITION",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
+    "Part no.": "RD-FA1011-03",
+    "Description": "AIRCRAFT INTERFACE(AI)",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA1081-01",
+    "Description": "NETWORK CONTROLLER(NC)",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA1074-01",
+    "Description": "CONTENT SERVER(CS)",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA1052-71",
+    "Description": "CREW TERMINAL(CT)",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-AA8190-01",
+    "Description": "ENHANCED CELL MODEM",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA1281-01",
+    "Description": "ONBOARD MEDIA LOADER",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA2011-01",
+    "Description": "ADB",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FE9816-01",
+    "Description": "DIGITAL OVERHEAD MONITOR(DOM)",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "1303-46",
+    "Description": "ADVANCED MASTER CONTROL UNIT",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA3622-01/RD-FA3134-01",
+    "Description": "SPM",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA3124-02/RD-3134-01",
+    "Description": "DC SEB",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FJ8884-01",
+    "Description": "B/C SMART MONITOR",
+    "Type": "IFE EX3 777 DELTA",
+    "Location": "BC"
+  },
+  {
+    "Part no.": "RD-FJ7833-01",
+    "Description": "PEY SMART MONITOR seatback",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FD6815-01",
+    "Description": "E/Y SMART MONITOR",
+    "Type": "IFE EX3 777 DELTA",
+    "Location": "EC"
+  },
+  {
+    "Part no.": "RD-FA5011-01",
+    "Description": "HANDSET",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FJ7828-01",
+    "Description": "PEY SMART MONITOR Inarm",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "2300-188-99-11BA",
+    "Description": "P C U MAIN RH ",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "P31025A010",
+    "Description": "ACTUATOR LEGREST",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "P78700M030",
+    "Description": "ECU",
+    "Type": "IFE EX3 777 DELTA"
+  },
+  {
+    "Part no.": "RD-FA1081-01",
+    "Description": "NETWORK CONTROLLER",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA1074-01",
+    "Description": "CONTENT SERVER(CS)",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-AA8104-03",
+    "Description": "CELL MODEM",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA1052-01",
+    "Description": "CREW TERMINAL(CT)",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA6820-01",
+    "Description": "PAYMENT MODULE",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA2221-01",
+    "Description": "FDB",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA2231-01",
+    "Description": "POWER FDB",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FE9816-01",
+    "Description": "DIGITAL OVERHEAD MONITOR(DOM) 16\"",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FE9824-01",
+    "Description": "DIGITAL OVERHEAD MONITOR(DOM) 24\"",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA3800-01",
+    "Description": "FIBRE OPTIC SEAT INTERFACE BOX",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA3871-01",
+    "Description": "HIGH POWER SEAT BOX",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA3134-01",
+    "Description": "DC SEB",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA3951-01",
+    "Description": "ACTIVE USB HUB",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FJ8924-01",
+    "Description": "B/C SMART MOBITOR",
+    "Type": "IFE EX3 350-900",
+    "Location": "BC"
+  },
+  {
+    "Part no.": "RD-FA5116/17-01",
+    "Description": "B/C HANDSET",
+    "Type": "IFE EX3 350-900",
+    "Location": "BC"
+  },
+  {
+    "Part no.": "RD-FD2824-01",
+    "Description": "PEY SMART MONITOR 12\"",
+    "Type": "IFE EX3 350-900",
+    "Location": "EC"
+  },
+  {
+    "Part no.": "RD-FD3830-01",
+    "Description": "PEY SMART MONITOR 13.3\"",
+    "Type": "IFE EX3 350-900",
+    "Location": "EC"
+  },
+  {
+    "Part no.": "RD-FA5011-01",
+    "Description": "PEY HANDSET",
+    "Type": "IFE EX3 350-900",
+    "Location": "EC"
+  },
+  {
+    "Part no.": "RD-FA8404-03",
+    "Description": "PASSENGER CONTROL UNIT",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA3632-01",
+    "Description": "SPM",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "1303-7-116/105",
+    "Description": "AC OUTLET",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "1303-7-116",
+    "Description": "CREW REST AC OUTLET",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "RD-FA6283-01",
+    "Description": "B/C NOISE CANCEL RJM",
+    "Type": "IFE EX3 350-900",
+    "Location": "BC"
+  },
+  {
+    "Part no.": "1303-253-118",
+    "Description": "USB/AC OUTLET",
+    "Type": "IFE EX3 350-900"
+  },
+  {
+    "Part no.": "PS5-22530-00",
+    "Description": "LEG REST ACTUATOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS5-22530-01",
+    "Description": " SEAT PAN ACTUATOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS5-21530-01",
+    "Description": "ARM REST &FOOT REST  ACTUATOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-55000-21 ",
+    "Description": "BACKREST (RECLINE ) &TRANSITION  ACTUATOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3129550G0000",
+    "Description": "SEAT PAN ASSY LH  ",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3129551G0000",
+    "Description": "SEAT PAN ASSY RH",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-80021-00 TWO SEATER  ",
+    "Description": "SEAT JUNCTION BOX  B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-80037-00  FIRST CLASS",
+    "Description": "SEAT JUNCTION BOX  F/C",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-80005-01 THREE SEATER  ",
+    "Description": "SEAT JUNCTION BOX  B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-85133-01  ",
+    "Description": "I-MOTION CONTROLLER   B/C LH",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-85133-00  ",
+    "Description": "I-MOTION CONTROLLER   B/C  RH",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-85135-01  ",
+    "Description": "I-MOTION CONTROLLER   F/C  LH",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "PS6-85135-00  ",
+    "Description": "I-MOTION CONTROLLER   F/C  RH",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3136433A00JW",
+    "Description": "KEYPAD  LH      B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3137780000JX",
+    "Description": "KEYPAD RH      B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3137780000JX",
+    "Description": "KEYPAD            F/C",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "H20585800000",
+    "Description": " STAR FOR TRANSITION ACTUATOR",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "F20876500000",
+    "Description": "BUSH FOR TRANSITION ACTUATOR",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "F11656600000",
+    "Description": "BRACKET FOR TRANSITION ACTUATOR",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313777300000",
+    "Description": "HARNESS KEYPAD",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313513000000",
+    "Description": "HARNESS R/L",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3137779500000",
+    "Description": "SNAKE LIGHT ASSY F/C ",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3137980000JY",
+    "Description": "SNAKE LIGHT ASSY B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "B20016100000",
+    "Description": "BACKREST MOVING BELT",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "B00405900000",
+    "Description": "BACKREST MANUAL CABLE",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313662600000",
+    "Description": "LED FOR TTOL",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3134974A0000",
+    "Description": "LEG REST ARM RH",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3134973A0000",
+    "Description": "LEG REST ARM LH",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3137980000JY",
+    "Description": "READING LIGHT ASSY B/C",
+    "Type": "AI 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": 31351300000,
+    "Description": "READING LIGHT HARNESS",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "A5210-6P",
+    "Description": "ARM REST MOVING CHANNEL",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "A5210-9P",
+    "Description": "FOOT REST MOVING CHANNEL",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "AN3-7A",
+    "Description": "BOLT FOR BACKREST BRACET PULLEY TOP",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "AN3-4A",
+    "Description": "BOLT FOR BACKREST BRACET PULLEY BOTTOM",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "F11581500000",
+    "Description": "PIVOT FOR FOOTREST ACTUATOR MOUNTING",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "MS24693C50",
+    "Description": "SCREW FOR PIVOT",
+    "Type": "AI 777",
+    "Location": "BC FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313751500000",
+    "Description": "Interface card for Business class",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "3132602C0000",
+    "Description": "SJB TO IMOTION HARNESS ",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313935400000",
+    "Description": "CORD REEL RH First class",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "313935500000",
+    "Description": "CORD REEL LH First class",
+    "Type": "AI 777",
+    "Location": "FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "F12057000000",
+    "Description": "Coin washer for backrest ",
+    "Type": "AI 777",
+    "Location": "FC BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "Ms24693C7",
+    "Description": "SCREW FOR COIN WASHER SMALL",
+    "Type": "AI 777",
+    "Location": "FC BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180717-101",
+    "Description": "DSU D3  ",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FE7800-64",
+    "Description": "ISPC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "P31025A010",
+    "Description": "legrest actuator ",
+    "ATA": 25
+  },
+  {
+    "Part no.": "2300-188-00-02",
+    "Description": " Keypad RH BSeat",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "2300-188-00-03",
+    "Description": " Keypad LH BSeat",
+    "Type": "ETIHAD 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP23768300 ",
+    "Description": "ECU for fc seats Etihad",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376801",
+    "Description": "recline actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376802",
+    "Description": "legrest actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376804",
+    "Description": "headrest actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376805",
+    "Description": "Translate actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376823",
+    "Description": "Armrest actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2376808",
+    "Description": "Seat pan extension actuator ",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "SP2250511C",
+    "Description": "Lumbar Controller",
+    "Type": "ETIHAD 777",
+    "Location": "Super FC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "P78629B050",
+    "Description": "ECU for bc seat Etihad",
+    "Type": "ETIHAD 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "P78700M030",
+    "Description": "ECU for bc seat Delta(Thompson)",
+    "Type": "ETIHAD 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "P34353B010",
+    "Description": "Actuator Backrest",
+    "Type": "ETIHAD 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "P34353B010",
+    "Description": "Actuator Transition",
+    "Type": "ETIHAD 777",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KA5612-24",
+    "Description": "CRADDLE FOR TPCU",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA5001-23",
+    "Description": "TPCU Handset",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA6293-05",
+    "Description": "AUDIO JACK ",
+    "ATA": 25
+  },
+  {
+    "Part no.": ",016321",
+    "Description": "KEYPAD PCU BC RH",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": ",016320",
+    "Description": "KEYPAD BC PCU LH",
+    "Location": "BC",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KM7853-002",
+    "Description": "HARNESS AUDIO",
+    "ATA": 25
+  },
+  {
+    "Part no.": "NSA935401-05",
+    "Description": "TIE STRAPS",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3622-01",
+    "Description": "SPM",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0717-101",
+    "Description": "DSU-D3,TOPSERIES",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0725-101",
+    "Description": "SEAT POWER BOX",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0773-201",
+    "Description": "SVDUHIIW,IA,10.6\" arm mount y class",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0812-101",
+    "Description": "DIGITAL TAPPING UNIT",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0888-901",
+    "Description": "ICMT-III,12.1\"",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1146-A01",
+    "Description": "PCU,TETHERED,TPCU-K B/C",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0811-001",
+    "Description": "OUTLET UNIT,AC,IN-SEAT POWER SUPPLY",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0811-003",
+    "Description": "OUTLET UNIT,AC,IN-SEAT POWER SUPPLY",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0876-104",
+    "Description": "KIT, SHROUD,15.4\" DIGITAL MONITOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0810-104",
+    "Description": "INUSE LIGHT,CLEAR BRUSHED",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1132-A01",
+    "Description": "MODULE,SINGLE USB",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1628-01",
+    "Description": "KIT,SHROUD,PCU CREW REST",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1227-048LN",
+    "Description": "CABLE ASSY,SVD TO DISCONNECT",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1227-048RN",
+    "Description": "CABLE ASSY,SVD TO DISCONNECT",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1084-032LN",
+    "Description": "CA ASSY,SVD TO SDB DISC",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1084-032RN",
+    "Description": "CA ASSY,SVD TO SDB DISC",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "249691-01",
+    "Description": "CAP ASSY,CONN,D-SUB,#2",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "249691-02",
+    "Description": "CAP ASSY,CONN,D-SUB,#2",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "787-8009-00",
+    "Description": "FLIGHT CAP,SEALED,FOR RCPT",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0778-201",
+    "Description": "SVDUHIIW,CNSL, 15.4\" B/C SEAT BACK",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0773-203",
+    "Description": "SVDUHIIW,IA,10.6 OFCR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "12349FA01",
+    "Description": "PRINTER,ETHERNET,ASTRO-MED",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0769-101",
+    "Description": "23\" DIGITAL OVERHEAD,B787",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0541-102",
+    "Description": "SEAT DATA BOX (SDB)",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0761-101",
+    "Description": "ADB-GII,TOPSERIES",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0768-101",
+    "Description": "15.4\"DIGITAL OVERHEAD,B787",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0781-101",
+    "Description": "15.4\"DIGITAL RETRACT,B787",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1162-A01",
+    "Description": "PCU,TETHERED,TPCU-B WITH CCR Y Class",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0877-104",
+    "Description": "KIT, SHROUD,23\" DIGITAL MONITOR",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "179029-101",
+    "Description": "AVC-D",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "178921-301",
+    "Description": "AUDIO JACK,INTEG NC DUAL PIN",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0874-101",
+    "Description": "KEYBOARD",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B1181-03",
+    "Description": "CONFIGURATION PLUG",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0776-201",
+    "Description": "SVDUHIIW,IA,12.1\" B/C ARM",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1B0889-201",
+    "Description": "SVDUHIIW,SB,10.6 seat back Y Class",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "307039-01",
+    "Description": "AUDIO JACKCARTRIDGE",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA2011-02",
+    "Description": "ADB",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FW9715-01",
+    "Description": "OVER HEAD MONITOR",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1303-46",
+    "Description": "ADVANCED MASTER CONTROL UNIT(AMCU)",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3621-01",
+    "Description": "F/C SEAT POWER MODULE(SPM)",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3221-01",
+    "Description": "F/C SEAT ELECTRONICS BOX",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FW7939-01",
+    "Description": "F/C LCD MONITOR SVDU",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA6913-03",
+    "Description": "F/C EX PORT RJU",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA5101-20",
+    "Description": "F/C HANDSET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KA5712-04",
+    "Description": "F/C CRADLE",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1303-7-118",
+    "Description": "F/C PED OUTLET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3622-01",
+    "Description": "B/C SPM",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3124-01",
+    "Description": "B/C DCSEB",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FE7854-51",
+    "Description": "B/C SMART MONITOR",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA1182-01",
+    "Description": "B/C & E/Y USB HUB",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA5101-10",
+    "Description": "B/C HANDSET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KA5712-04",
+    "Description": "B/C CRADLE",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1303-7-118",
+    "Description": "B/C PED OUTLET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA6293-06",
+    "Description": "B/C NOISE CANCELLATION RJU",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3622-01",
+    "Description": "E/Y SPM",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3124-01",
+    "Description": "E/Y DCSEB",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA3524-01",
+    "Description": "E/Y DC ZONE TERMINATOR(ZT)",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FE7805-65",
+    "Description": "E/Y SMART MONITOR IN-ARM",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FE7800-64",
+    "Description": "E/Y SMART MONITOR S/B",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA5001-23",
+    "Description": "E/Y HANDSET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KA5612-24",
+    "Description": "E/Y CRADLE",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA6293-05",
+    "Description": "E/Y NOISE CANCELLATION RJU",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1303-7-116",
+    "Description": "E/Y PED OUTLET",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA1011-01",
+    "Description": "AIRCRAFT INTERFACE",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-KA1003-03",
+    "Description": "FILE SERVER",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA1031-01",
+    "Description": "DISK ARRAY",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FA1061-01",
+    "Description": "MEDIA SERVER",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180725-101",
+    "Description": "SPB",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181162-A01",
+    "Description": "TPCU-EY",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181146-A01",
+    "Description": "TPCU-BC",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180776-201",
+    "Description": "ARM SVDU-BC",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180773-201",
+    "Description": "ARM SVDU-EY",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180778-201",
+    "Description": "SVDU-BC (SEATBACK)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1065-000-01",
+    "Description": "Audio Cartridge Cassette",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "307039-01",
+    "Description": "PED",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180717-101",
+    "Description": "DSU-D3",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "179029-101",
+    "Description": "AVCD",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180541-102",
+    "Description": "SDB",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180859-201",
+    "Description": "SVODU-EY",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180781-101",
+    "Description": "DROP DOWN (RET. SVDU)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180768-101",
+    "Description": "WALL MT. SVDU",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180888-901",
+    "Description": "ICMT",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180888-101",
+    "Description": "PPD DF (WALL MT. SVDU)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180769-101",
+    "Description": "ADB",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180761-101",
+    "Description": "D UNIT",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181312-A01",
+    "Description": "USB",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "S33008-923-001",
+    "Description": "DIST. TO ECU HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "S33008-924-001",
+    "Description": "SPAN HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "S33008-925-003",
+    "Description": "BREST HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "S33008-920-001",
+    "Description": "L/REST HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "S33208-511-101",
+    "Description": "SCREWS (B/C)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "180946-110",
+    "Description": "DIST. TO SEAT HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181312-A01",
+    "Description": "USB",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1877910-1",
+    "Description": "TRACK COVER",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181227-048 RN/LN",
+    "Description": "B/C HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181084-032 RN/LN",
+    "Description": "EY HARNESS",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "203020-6",
+    "Description": "POWER TRACK",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "203030-6",
+    "Description": "DATA TRACK",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1879111-1",
+    "Description": "PLATE ASSY (LOCK BLANK)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1787PORT COVER",
+    "Description": "USB BLANKING",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "1877800-1",
+    "Description": "LOCK (CREAM COLOUR)",
+    "Type": "AI 787",
+    "ATA": 25
+  },
+  {
+    "Part no.": "181210-1404K",
+    "Description": "TRACK HARNESS (3QAB)",
+    "Type": "AI 787",
+    "ATA": 25
+  }
+]

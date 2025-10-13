@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Parts Manager (with Admin)</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  body { margin: 24px; }
+  table td, table th { vertical-align: middle; }
+  #adminBanner { margin-bottom: 12px; }
+  pre { white-space: pre-wrap; word-break: break-word; }
+</style>
+</head>
+<body>
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h2>Parts Manager</h2>
+  <div id="authArea">
+    <!-- login form or admin info will be injected here by script.js -->
+  </div>
+</div>
+
+<div id="adminBanner" class="d-none">
+  <div class="alert alert-info p-2">Logged in as <strong id="adminName"></strong>
+    <button id="logoutBtn" class="btn btn-sm btn-outline-secondary float-end">Logout</button>
+  </div>
+</div>
+
+<div class="mb-3">
+  <input type="text" id="search" class="form-control" placeholder="Search parts...">
+</div>
+
+<table class="table table-bordered table-sm" id="partsTable">
+  <thead>
+    <tr>
+      <th>Part Number</th>
+      <th>Description</th>
+      <th>Type</th>
+      <th>Location</th>
+      <th>ATA</th>
+      <th style="width:170px">Actions</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<hr>
+<h4 id="formTitle">Add / Edit Part</h4>
+<form id="partForm" class="mb-3">
+  <input type="hidden" id="editIndex">
+  <div class="row g-2">
+    <div class="col-md-2"><input type="text" id="partNumber" class="form-control form-control-sm" placeholder="Part no." required></div>
+    <div class="col-md-4"><input type="text" id="description" class="form-control form-control-sm" placeholder="Description" required></div>
+    <div class="col-md-2"><input type="text" id="type" class="form-control form-control-sm" placeholder="Type" required></div>
+    <div class="col-md-2"><input type="text" id="location" class="form-control form-control-sm" placeholder="Location"></div>
+    <div class="col-md-1"><input type="text" id="ata" class="form-control form-control-sm" placeholder="ATA"></div>
+    <div class="col-md-auto">
+      <button type="submit" class="btn btn-primary btn-sm" id="saveBtn">Save</button>
+    </div>
+  </div>
+</form>
+
+<hr>
+<div id="adminControls" class="d-none">
+  <h5>Admin Controls</h5>
+  <button id="changePassBtn" class="btn btn-sm btn-outline-secondary mb-2">Change Admin Password</button>
+  <button id="resetDefaultBtn" class="btn btn-sm btn-outline-danger mb-2">Reset Admin to Default (admin/admin123)</button>
+  <button id="exportBtn" class="btn btn-sm btn-success mb-2">Export JSON</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
