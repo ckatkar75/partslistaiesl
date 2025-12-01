@@ -170,6 +170,11 @@
     "Type": "IFE EX2 777 ETIHAD"
   },
   {
+    "Part no.": "SP2376805",
+    "Description": "ACTUATOR TRANSITION",
+    "Type": "IFE EX2 777 ETIHAD"
+  },
+  {
     "Part no.": "P78700M030",
     "Description": "ECU",
     "Type": "IFE EX2 777 ETIHAD"
@@ -569,9 +574,9 @@
   },
   {
     "Part no.": "3137779500000",
-    "Description": "SNAKE LIGHT ASSY F/C",
+    "Description": "SNAKE LIGHT ASSY F/C ",
     "Type": "AI 777",
-    "Location": "FC",
+    "Location": "BC",
     "ATA": 25
   },
   {
@@ -705,6 +710,11 @@
     "ATA": 25
   },
   {
+    "Part no.": "180717-101",
+    "Description": "DSU D3  ",
+    "ATA": 25
+  },
+  {
     "Part no.": "RD-FE7800-64",
     "Description": "ISPC",
     "ATA": 25
@@ -736,7 +746,7 @@
   },
   {
     "Part no.": "SP2376801",
-    "Description": "recline/ backrest actuator",
+    "Description": "recline actuator ",
     "Type": "ETIHAD 777",
     "Location": "Super FC",
     "ATA": 25
@@ -757,7 +767,7 @@
   },
   {
     "Part no.": "SP2376805",
-    "Description": "Translate/ transition actuator",
+    "Description": "Translate actuator ",
     "Type": "ETIHAD 777",
     "Location": "Super FC",
     "ATA": 25
@@ -812,15 +822,18 @@
     "ATA": 25
   },
   {
+    "Part no.": "RD-KA5612-24",
+    "Description": "CRADDLE FOR TPCU",
+    "ATA": 25
+  },
+  {
     "Part no.": "RD-FA5001-23",
     "Description": "TPCU Handset",
     "ATA": 25
   },
   {
     "Part no.": "RD-FA6293-05",
-    "Description": "AUDIO JACK",
-    "Type": "EX2 ETIHAD 777",
-    "Location": "FC",
+    "Description": "AUDIO JACK ",
     "ATA": 25
   },
   {
@@ -875,22 +888,27 @@
     "ATA": 25
   },
   {
+    "Part no.": "1B0888-901",
+    "Description": "ICMT-III,12.1\"",
+    "Type": "AI 777",
+    "ATA": 25
+  },
+  {
     "Part no.": "1B1146-A01",
     "Description": "PCU,TETHERED,TPCU-K B/C",
     "Type": "AI 777",
     "ATA": 25
   },
   {
-    "Part no.": "180811-001",
+    "Part no.": "1B0811-001",
     "Description": "OUTLET UNIT,AC,IN-SEAT POWER SUPPLY",
     "Type": "AI 777",
     "ATA": 25
   },
   {
-    "Part no.": "180811-003",
-    "Description": "OUTLET UNIT,AC,IN-SEAT POWER SUPPLY PED ISPC",
+    "Part no.": "1B0811-003",
+    "Description": "OUTLET UNIT,AC,IN-SEAT POWER SUPPLY",
     "Type": "AI 777",
-    "Location": "Grey colour",
     "ATA": 25
   },
   {
@@ -990,7 +1008,7 @@
     "ATA": 25
   },
   {
-    "Part no.": "180761-101",
+    "Part no.": "1B0761-101",
     "Description": "ADB-GII,TOPSERIES",
     "Type": "AI 777",
     "ATA": 25
@@ -1184,6 +1202,12 @@
   {
     "Part no.": "RD-FA3524-01",
     "Description": "E/Y DC ZONE TERMINATOR(ZT)",
+    "Type": "ETIHAD 777",
+    "ATA": 25
+  },
+  {
+    "Part no.": "RD-FE7805-65",
+    "Description": "E/Y SMART MONITOR IN-ARM",
     "Type": "ETIHAD 777",
     "ATA": 25
   },
@@ -1450,73 +1474,5 @@
     "Description": "TRACK HARNESS (3QAB)",
     "Type": "AI 787",
     "ATA": 25
-  },
-  {
-    "Part no.": "R8K3KA571204",
-    "Description": "BC TPCU HANDSET ACCESSORIES",
-    "Type": "EX2 ETIHAD",
-    "Location": "BC"
-  },
-  {
-    "Part no.": "R8K2KA561234",
-    "Description": "EC TPCU HANDSET ACCESSORIES",
-    "Type": "EX2 ETIHAD 777",
-    "Location": "EC"
-  },
-  {
-    "Part no.": "Z280H1040012",
-    "Description": "PED FACE PLATE",
-    "Type": "Ai777",
-    "Location": "FC BC"
-  },
-  {
-    "Part no.": "180199-202",
-    "Description": "SVDU ECY",
-    "Type": "AI777",
-    "Location": "Ecy"
-  },
-  {
-    "Part no.": "178861-101",
-    "Description": "QSEB",
-    "Type": "AI777"
-  },
-  {
-    "Part no.": "177922-103",
-    "Description": "MCU",
-    "Type": "Ai777"
-  },
-  {
-    "Part no.": "177892-102",
-    "Description": "DSUD2",
-    "Type": "Ai777"
-  },
-  {
-    "Part no.": "NSA935401-06",
-    "Description": "Tie straps 10inch",
-    "Type": "A"
-  },
-  {
-    "Part no.": "M81969-14-01",
-    "Description": "Insertion removal tool",
-    "Type": "Grren/white plastic tool"
-  },
-  {
-    "Part no.": "312747700000",
-    "Description": "Sector teethed",
-    "Type": "AI 777",
-    "Location": "BC"
-  },
-  {
-    "Part no.": "F11846100000",
-    "Description": "Coupling flexible for Transition actuator",
-    "Type": "AI 777 BC"
-  },
-  {
-    "Part no.": "179118-B01",
-    "Description": "TPCU ECY",
-    "Type": "777"
   }
 ]
-
-
-
