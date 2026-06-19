@@ -1676,5 +1676,11 @@
     "Part no.": "180874-101",
     "Description": "KEYBOARD",
     "Type": "787 IFE"
+  },
+  {
+    "Part no.": "RD-KM7487-036",
+    "Description": "Harness Disconnect to arm svdu",
+    "Type": "777 Etihad",
+    "Location": "Arm svdu"
   }
 ]
